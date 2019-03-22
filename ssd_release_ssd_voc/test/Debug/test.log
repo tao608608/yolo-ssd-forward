@@ -1,0 +1,74 @@
+﻿  main.cpp
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3583): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3584): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3585): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3586): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3615): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3616): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3617): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3618): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3647): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3648): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3649): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3650): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3678): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3679): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3680): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3681): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3709): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3710): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3711): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3712): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3740): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3741): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3742): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(3743): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(4690): warning C4305: “初始化”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\main.cpp(4691): warning C4305: “初始化”: 从“double”到“float”截断
+  layer.cpp
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(187): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(210): warning C4101: “b”: 未引用的局部变量
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(282): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(481): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(594): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(628): warning C4305: “参数”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(641): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(642): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(644): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(646): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(648): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(650): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(653): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(655): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(657): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(659): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(661): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(663): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(671): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(673): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(675): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(677): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(692): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(873): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(874): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(892): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(893): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(894): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(895): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1157): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1199): warning C4244: “参数”: 从“const int”转换到“const float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1242): warning C4305: “=”: 从“double”到“float”截断
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1345): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1378): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\opencv项目存储\xiong\ssd_release_ssd_voc\test\layer.cpp(1379): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  test.vcxproj -> D:\opencv项目存储\xiong\ssd_release_ssd_voc\Debug\test.exe
+  test.vcxproj -> D:\opencv项目存储\xiong\ssd_release_ssd_voc\Debug\test.pdb (Partial PDB)
